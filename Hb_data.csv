@@ -1,0 +1,1001 @@
+Name,Age,Weight,Category,Hb,Anemia Condition
+Person_1,74,68.3,Child,13.2,Normal
+Person_2,18,80.4,Male,11.2,Mild
+Person_3,22,85.7,Pregnant Woman,6.5,Severe
+Person_4,71,98.1,Pregnant Woman,10.1,Mild
+Person_5,68,16.1,Child,0.8,Severe
+Person_6,77,88.8,Pregnant Woman,9.0,Moderate
+Person_7,31,72.8,Pregnant Woman,13.9,Normal
+Person_8,60,56.9,Male,15.9,Normal
+Person_9,14,46.9,Child,10.8,Mild
+Person_10,10,49.2,Pregnant Woman,6.0,Severe
+Person_11,27,97.4,Child,8.0,Moderate
+Person_12,11,35.4,Female,4.2,Severe
+Person_13,62,93.5,Female,2.2,Severe
+Person_14,76,49.7,Male,10.9,Moderate
+Person_15,64,64.1,Male,1.9,Severe
+Person_16,11,28.4,Pregnant Woman,13.5,Normal
+Person_17,15,12.3,Pregnant Woman,10.7,Mild
+Person_18,44,63.5,Pregnant Woman,10.2,Mild
+Person_19,18,42.2,Female,1.1,Severe
+Person_20,74,91.3,Male,13.4,Mild
+Person_21,21,81.1,Pregnant Woman,0.9,Severe
+Person_22,5,76.2,Pregnant Woman,7.9,Moderate
+Person_23,52,92.6,Child,1.0,Severe
+Person_24,33,46.8,Pregnant Woman,3.7,Severe
+Person_25,16,54.2,Pregnant Woman,13.1,Normal
+Person_26,28,95.2,Male,13.5,Mild
+Person_27,51,42.9,Child,5.2,Severe
+Person_28,68,40.6,Male,5.8,Severe
+Person_29,39,64.9,Pregnant Woman,12.1,Normal
+Person_30,36,68.0,Female,6.1,Severe
+Person_31,8,82.6,Child,11.2,Normal
+Person_32,12,92.2,Male,1.1,Severe
+Person_33,9,44.9,Male,13.6,Mild
+Person_34,21,90.6,Child,5.5,Severe
+Person_35,61,66.1,Child,13.3,Normal
+Person_36,5,64.9,Pregnant Woman,8.7,Moderate
+Person_37,45,15.9,Female,11.4,Mild
+Person_38,30,26.4,Pregnant Woman,11.1,Normal
+Person_39,25,84.7,Male,12.5,Mild
+Person_40,80,83.1,Female,12.1,Normal
+Person_41,10,72.7,Female,9.4,Moderate
+Person_42,11,82.9,Child,11.7,Normal
+Person_43,74,83.6,Child,8.0,Moderate
+Person_44,10,12.4,Male,8.6,Moderate
+Person_45,59,90.9,Child,11.2,Normal
+Person_46,54,29.9,Pregnant Woman,0.9,Severe
+Person_47,70,83.7,Female,7.1,Moderate
+Person_48,16,89.4,Male,10.4,Moderate
+Person_49,23,20.1,Pregnant Woman,1.7,Severe
+Person_50,27,14.1,Male,8.1,Moderate
+Person_51,49,10.6,Female,10.0,Mild
+Person_52,42,55.8,Pregnant Woman,9.7,Moderate
+Person_53,49,85.3,Female,7.3,Moderate
+Person_54,62,14.7,Pregnant Woman,8.7,Moderate
+Person_55,60,96.7,Female,12.2,Normal
+Person_56,25,33.5,Female,8.5,Moderate
+Person_57,65,42.2,Male,10.1,Moderate
+Person_58,30,12.3,Child,10.4,Mild
+Person_59,28,62.5,Child,12.6,Normal
+Person_60,12,91.4,Female,2.0,Severe
+Person_61,50,22.0,Female,1.5,Severe
+Person_62,52,72.5,Child,9.6,Moderate
+Person_63,31,18.9,Male,15.0,Normal
+Person_64,53,81.8,Female,11.5,Mild
+Person_65,45,24.4,Male,12.4,Mild
+Person_66,34,37.4,Female,11.3,Mild
+Person_67,43,47.9,Pregnant Woman,8.3,Moderate
+Person_68,61,56.2,Pregnant Woman,9.3,Moderate
+Person_69,1,40.7,Pregnant Woman,9.8,Moderate
+Person_70,15,40.6,Child,9.0,Moderate
+Person_71,22,75.9,Female,8.6,Moderate
+Person_72,58,41.4,Female,2.2,Severe
+Person_73,29,10.9,Male,13.4,Mild
+Person_74,80,51.7,Pregnant Woman,12.3,Normal
+Person_75,19,13.5,Female,4.1,Severe
+Person_76,3,58.0,Child,13.9,Normal
+Person_77,4,56.8,Child,10.3,Mild
+Person_78,34,88.5,Child,7.3,Moderate
+Person_79,19,78.0,Child,12.9,Normal
+Person_80,34,60.1,Pregnant Woman,10.6,Mild
+Person_81,36,17.9,Child,2.1,Severe
+Person_82,65,14.5,Female,7.9,Moderate
+Person_83,21,24.9,Child,13.6,Normal
+Person_84,16,81.0,Male,10.2,Moderate
+Person_85,15,84.5,Pregnant Woman,0.9,Severe
+Person_86,60,92.4,Child,10.1,Mild
+Person_87,14,47.5,Male,13.4,Mild
+Person_88,37,86.9,Male,2.2,Severe
+Person_89,7,90.1,Male,17.0,Normal
+Person_90,29,17.1,Child,10.1,Mild
+Person_91,74,37.3,Pregnant Woman,5.0,Severe
+Person_92,72,21.1,Child,13.2,Normal
+Person_93,1,39.1,Child,5.8,Severe
+Person_94,74,85.3,Child,9.7,Moderate
+Person_95,51,26.2,Pregnant Woman,9.0,Moderate
+Person_96,12,80.0,Pregnant Woman,9.8,Moderate
+Person_97,66,69.1,Female,7.1,Moderate
+Person_98,68,83.2,Female,5.2,Severe
+Person_99,39,34.5,Female,12.9,Normal
+Person_100,41,33.3,Female,8.8,Moderate
+Person_101,63,17.9,Child,8.0,Moderate
+Person_102,47,16.8,Male,9.1,Moderate
+Person_103,65,20.6,Male,1.5,Severe
+Person_104,79,10.1,Child,10.2,Mild
+Person_105,34,18.2,Pregnant Woman,11.6,Normal
+Person_106,17,87.4,Child,6.7,Severe
+Person_107,41,41.6,Pregnant Woman,3.9,Severe
+Person_108,45,16.9,Female,4.0,Severe
+Person_109,61,67.8,Child,1.1,Severe
+Person_110,46,15.8,Pregnant Woman,8.1,Moderate
+Person_111,17,58.6,Male,13.3,Mild
+Person_112,55,55.2,Male,10.3,Moderate
+Person_113,78,27.6,Female,14.2,Normal
+Person_114,68,87.2,Female,12.8,Normal
+Person_115,67,17.5,Pregnant Woman,8.5,Moderate
+Person_116,40,12.2,Male,15.2,Normal
+Person_117,60,85.4,Pregnant Woman,12.9,Normal
+Person_118,12,49.7,Pregnant Woman,13.7,Normal
+Person_119,56,80.2,Male,1.1,Severe
+Person_120,18,24.0,Pregnant Woman,7.0,Moderate
+Person_121,32,93.6,Pregnant Woman,8.2,Moderate
+Person_122,54,30.6,Female,4.3,Severe
+Person_123,36,61.3,Female,13.4,Normal
+Person_124,17,42.3,Child,10.2,Mild
+Person_125,51,91.1,Child,2.3,Severe
+Person_126,12,14.6,Female,2.2,Severe
+Person_127,63,99.0,Child,10.3,Mild
+Person_128,21,36.9,Child,10.9,Mild
+Person_129,21,21.0,Male,6.1,Severe
+Person_130,68,51.6,Male,8.7,Moderate
+Person_131,63,60.6,Child,11.6,Normal
+Person_132,71,36.8,Male,16.3,Normal
+Person_133,47,86.8,Male,17.0,Normal
+Person_134,78,71.6,Child,2.4,Severe
+Person_135,52,56.0,Pregnant Woman,11.2,Normal
+Person_136,78,16.8,Male,7.1,Severe
+Person_137,69,58.2,Male,11.7,Mild
+Person_138,12,84.0,Child,8.8,Moderate
+Person_139,34,60.4,Pregnant Woman,10.6,Mild
+Person_140,79,23.4,Male,10.0,Moderate
+Person_141,36,79.1,Male,13.3,Mild
+Person_142,18,97.4,Pregnant Woman,12.3,Normal
+Person_143,67,75.4,Pregnant Woman,13.2,Normal
+Person_144,66,31.0,Female,7.3,Moderate
+Person_145,66,98.7,Child,11.7,Normal
+Person_146,14,98.9,Child,6.9,Severe
+Person_147,49,13.0,Female,8.4,Moderate
+Person_148,35,95.6,Male,7.8,Severe
+Person_149,8,62.6,Male,12.7,Mild
+Person_150,31,56.2,Child,8.2,Moderate
+Person_151,77,38.4,Child,7.7,Moderate
+Person_152,67,98.3,Child,10.7,Mild
+Person_153,77,52.0,Male,12.8,Mild
+Person_154,28,46.3,Female,10.8,Mild
+Person_155,69,35.0,Female,10.9,Mild
+Person_156,14,60.8,Child,8.5,Moderate
+Person_157,21,81.1,Female,0.1,Severe
+Person_158,36,99.9,Pregnant Woman,13.0,Normal
+Person_159,22,79.1,Pregnant Woman,0.0,Severe
+Person_160,80,66.7,Male,3.3,Severe
+Person_161,62,47.6,Pregnant Woman,7.8,Moderate
+Person_162,70,47.4,Child,13.9,Normal
+Person_163,18,51.5,Pregnant Woman,0.0,Severe
+Person_164,74,84.8,Child,10.2,Mild
+Person_165,8,64.0,Pregnant Woman,8.2,Moderate
+Person_166,30,32.4,Pregnant Woman,10.2,Mild
+Person_167,31,19.7,Child,8.7,Moderate
+Person_168,23,13.2,Child,10.7,Mild
+Person_169,33,89.5,Male,12.8,Mild
+Person_170,55,68.0,Child,11.3,Normal
+Person_171,42,23.9,Male,2.7,Severe
+Person_172,15,34.8,Male,10.3,Moderate
+Person_173,44,13.4,Female,1.1,Severe
+Person_174,63,28.5,Pregnant Woman,8.8,Moderate
+Person_175,53,60.0,Female,8.5,Moderate
+Person_176,48,33.9,Female,7.2,Moderate
+Person_177,12,83.8,Male,13.9,Normal
+Person_178,56,43.3,Pregnant Woman,7.0,Moderate
+Person_179,10,16.6,Female,13.6,Normal
+Person_180,58,93.8,Female,12.7,Normal
+Person_181,11,88.8,Male,12.8,Mild
+Person_182,33,20.5,Child,8.1,Moderate
+Person_183,25,81.1,Male,10.4,Moderate
+Person_184,49,83.3,Pregnant Woman,10.3,Mild
+Person_185,5,61.7,Female,3.4,Severe
+Person_186,29,10.2,Female,7.5,Moderate
+Person_187,59,62.7,Pregnant Woman,10.8,Mild
+Person_188,48,92.8,Child,7.8,Moderate
+Person_189,38,50.3,Child,6.2,Severe
+Person_190,59,72.3,Child,2.1,Severe
+Person_191,10,74.6,Male,11.1,Mild
+Person_192,11,99.8,Pregnant Woman,10.6,Mild
+Person_193,60,93.3,Female,11.1,Mild
+Person_194,23,68.9,Pregnant Woman,10.1,Mild
+Person_195,72,55.3,Pregnant Woman,10.4,Mild
+Person_196,14,42.1,Female,9.3,Moderate
+Person_197,6,22.8,Female,9.6,Moderate
+Person_198,73,10.6,Child,1.0,Severe
+Person_199,66,10.3,Male,10.8,Moderate
+Person_200,73,39.4,Female,8.5,Moderate
+Person_201,49,17.9,Pregnant Woman,4.6,Severe
+Person_202,73,18.6,Female,4.5,Severe
+Person_203,43,30.4,Male,12.5,Mild
+Person_204,55,11.3,Male,16.4,Normal
+Person_205,16,90.8,Female,9.0,Moderate
+Person_206,76,12.9,Male,10.2,Moderate
+Person_207,45,16.0,Child,10.0,Mild
+Person_208,36,55.1,Pregnant Woman,13.3,Normal
+Person_209,71,20.5,Male,10.4,Moderate
+Person_210,57,50.0,Female,8.9,Moderate
+Person_211,29,37.7,Child,9.2,Moderate
+Person_212,8,69.0,Female,6.1,Severe
+Person_213,48,99.7,Male,13.6,Mild
+Person_214,71,41.3,Female,7.0,Moderate
+Person_215,70,67.5,Pregnant Woman,10.6,Mild
+Person_216,49,99.7,Male,6.7,Severe
+Person_217,3,41.6,Female,9.9,Moderate
+Person_218,23,19.3,Male,13.5,Mild
+Person_219,51,72.1,Child,1.2,Severe
+Person_220,78,96.7,Female,10.7,Mild
+Person_221,44,24.7,Child,8.7,Moderate
+Person_222,52,17.0,Pregnant Woman,10.1,Mild
+Person_223,19,12.7,Male,9.3,Moderate
+Person_224,13,16.4,Child,7.8,Moderate
+Person_225,23,27.7,Child,8.8,Moderate
+Person_226,65,85.8,Pregnant Woman,6.2,Severe
+Person_227,51,63.2,Pregnant Woman,13.8,Normal
+Person_228,1,70.8,Female,14.1,Normal
+Person_229,14,21.5,Female,12.7,Normal
+Person_230,71,90.8,Female,12.8,Normal
+Person_231,67,48.9,Female,13.0,Normal
+Person_232,11,22.1,Child,11.6,Normal
+Person_233,11,34.8,Pregnant Woman,10.8,Mild
+Person_234,75,63.1,Pregnant Woman,9.8,Moderate
+Person_235,79,38.8,Child,9.0,Moderate
+Person_236,15,40.9,Pregnant Woman,11.5,Normal
+Person_237,19,90.3,Pregnant Woman,7.9,Moderate
+Person_238,79,28.6,Child,1.0,Severe
+Person_239,47,58.0,Child,13.1,Normal
+Person_240,1,25.3,Male,16.6,Normal
+Person_241,75,44.3,Pregnant Woman,4.2,Severe
+Person_242,74,67.3,Male,8.9,Moderate
+Person_243,5,60.3,Child,13.7,Normal
+Person_244,11,59.1,Female,10.4,Mild
+Person_245,4,25.9,Female,1.4,Severe
+Person_246,3,48.0,Pregnant Woman,11.3,Normal
+Person_247,37,59.2,Female,11.9,Mild
+Person_248,53,91.2,Pregnant Woman,0.2,Severe
+Person_249,9,68.9,Male,14.6,Normal
+Person_250,26,40.0,Female,0.7,Severe
+Person_251,80,54.0,Child,13.9,Normal
+Person_252,6,98.5,Child,10.4,Mild
+Person_253,73,23.0,Male,10.5,Moderate
+Person_254,75,49.6,Male,12.6,Mild
+Person_255,15,42.9,Male,12.4,Mild
+Person_256,14,91.7,Child,12.1,Normal
+Person_257,18,58.0,Male,7.8,Severe
+Person_258,46,90.9,Child,12.3,Normal
+Person_259,73,69.4,Pregnant Woman,12.3,Normal
+Person_260,72,58.3,Pregnant Woman,9.7,Moderate
+Person_261,8,92.4,Pregnant Woman,0.6,Severe
+Person_262,76,25.3,Male,0.6,Severe
+Person_263,5,75.1,Male,11.4,Mild
+Person_264,9,45.7,Male,16.0,Normal
+Person_265,24,71.0,Child,4.2,Severe
+Person_266,28,16.5,Pregnant Woman,9.9,Moderate
+Person_267,19,18.9,Child,9.1,Moderate
+Person_268,12,96.2,Child,10.0,Mild
+Person_269,73,28.8,Pregnant Woman,10.9,Mild
+Person_270,31,80.2,Female,10.2,Mild
+Person_271,29,69.5,Female,12.7,Normal
+Person_272,52,38.6,Male,1.9,Severe
+Person_273,12,22.1,Pregnant Woman,13.4,Normal
+Person_274,41,84.3,Male,2.4,Severe
+Person_275,40,41.5,Female,6.7,Severe
+Person_276,42,99.4,Child,8.4,Moderate
+Person_277,53,33.1,Male,13.6,Mild
+Person_278,50,54.0,Male,10.5,Moderate
+Person_279,22,98.4,Pregnant Woman,10.8,Mild
+Person_280,78,10.4,Pregnant Woman,5.5,Severe
+Person_281,15,53.1,Child,10.4,Mild
+Person_282,66,64.4,Pregnant Woman,7.7,Moderate
+Person_283,26,15.1,Child,10.7,Mild
+Person_284,27,78.9,Pregnant Woman,10.8,Mild
+Person_285,61,21.5,Female,13.9,Normal
+Person_286,79,23.3,Pregnant Woman,10.4,Mild
+Person_287,80,72.2,Female,9.7,Moderate
+Person_288,64,54.2,Male,9.5,Moderate
+Person_289,55,15.3,Child,10.1,Mild
+Person_290,3,98.1,Female,9.4,Moderate
+Person_291,62,25.6,Female,9.2,Moderate
+Person_292,16,70.1,Child,4.5,Severe
+Person_293,27,38.6,Child,12.4,Normal
+Person_294,3,34.0,Child,7.9,Moderate
+Person_295,34,77.8,Child,10.2,Mild
+Person_296,22,62.4,Male,6.8,Severe
+Person_297,17,18.6,Child,9.3,Moderate
+Person_298,44,11.7,Pregnant Woman,10.8,Mild
+Person_299,3,21.3,Male,11.2,Mild
+Person_300,42,56.6,Female,13.8,Normal
+Person_301,63,26.6,Female,10.0,Mild
+Person_302,56,75.3,Child,10.6,Mild
+Person_303,11,10.7,Pregnant Woman,10.3,Mild
+Person_304,31,65.8,Pregnant Woman,12.1,Normal
+Person_305,24,65.7,Female,14.4,Normal
+Person_306,63,96.9,Male,12.4,Mild
+Person_307,72,92.9,Female,7.5,Moderate
+Person_308,25,82.6,Male,6.6,Severe
+Person_309,19,15.1,Female,11.4,Mild
+Person_310,33,75.9,Female,12.3,Normal
+Person_311,61,12.6,Female,7.3,Moderate
+Person_312,52,12.4,Male,9.8,Moderate
+Person_313,79,71.7,Pregnant Woman,4.0,Severe
+Person_314,5,35.5,Male,9.2,Moderate
+Person_315,62,67.9,Male,8.1,Moderate
+Person_316,48,83.6,Male,8.6,Moderate
+Person_317,34,94.9,Child,11.4,Normal
+Person_318,49,45.9,Male,16.3,Normal
+Person_319,22,85.9,Female,12.6,Normal
+Person_320,3,47.7,Female,13.6,Normal
+Person_321,39,74.7,Pregnant Woman,0.2,Severe
+Person_322,52,95.6,Pregnant Woman,7.4,Moderate
+Person_323,5,41.2,Child,13.9,Normal
+Person_324,73,93.0,Child,10.3,Mild
+Person_325,8,80.7,Pregnant Woman,13.0,Normal
+Person_326,34,43.4,Child,8.1,Moderate
+Person_327,10,14.6,Pregnant Woman,10.4,Mild
+Person_328,42,75.7,Male,1.0,Severe
+Person_329,69,22.2,Male,6.8,Severe
+Person_330,1,66.0,Male,8.3,Moderate
+Person_331,25,59.6,Pregnant Woman,5.5,Severe
+Person_332,49,16.4,Male,14.1,Normal
+Person_333,3,33.0,Female,7.8,Moderate
+Person_334,14,15.2,Child,12.9,Normal
+Person_335,49,35.3,Child,1.8,Severe
+Person_336,55,70.4,Male,16.1,Normal
+Person_337,36,90.9,Male,11.3,Mild
+Person_338,42,38.5,Male,8.1,Moderate
+Person_339,28,43.1,Child,9.6,Moderate
+Person_340,40,15.3,Male,14.3,Normal
+Person_341,28,98.6,Male,11.7,Mild
+Person_342,75,83.0,Female,14.4,Normal
+Person_343,69,99.5,Male,10.1,Moderate
+Person_344,36,68.0,Pregnant Woman,13.3,Normal
+Person_345,67,26.6,Child,13.0,Normal
+Person_346,22,31.9,Female,9.3,Moderate
+Person_347,22,18.0,Male,4.7,Severe
+Person_348,34,58.7,Pregnant Woman,7.8,Moderate
+Person_349,44,44.6,Pregnant Woman,10.4,Mild
+Person_350,48,24.8,Female,10.5,Mild
+Person_351,69,77.6,Child,9.4,Moderate
+Person_352,68,55.3,Pregnant Woman,13.4,Normal
+Person_353,7,30.4,Pregnant Woman,7.3,Moderate
+Person_354,42,67.6,Child,13.6,Normal
+Person_355,7,70.1,Female,2.9,Severe
+Person_356,71,60.0,Pregnant Woman,10.6,Mild
+Person_357,48,93.9,Female,7.3,Moderate
+Person_358,55,79.6,Female,7.6,Moderate
+Person_359,44,64.0,Male,2.6,Severe
+Person_360,70,46.9,Female,11.4,Mild
+Person_361,34,74.4,Child,14.0,Normal
+Person_362,38,86.9,Male,7.5,Severe
+Person_363,60,68.4,Pregnant Woman,10.1,Mild
+Person_364,4,68.5,Pregnant Woman,6.9,Severe
+Person_365,68,63.8,Female,10.8,Mild
+Person_366,63,87.6,Male,7.4,Severe
+Person_367,34,94.5,Pregnant Woman,4.0,Severe
+Person_368,14,69.8,Male,12.9,Mild
+Person_369,4,18.3,Pregnant Woman,10.7,Mild
+Person_370,54,74.5,Male,7.4,Severe
+Person_371,58,35.7,Child,8.2,Moderate
+Person_372,56,67.3,Child,6.6,Severe
+Person_373,41,96.4,Child,1.4,Severe
+Person_374,24,54.0,Male,15.2,Normal
+Person_375,13,20.9,Male,4.9,Severe
+Person_376,18,88.6,Child,7.6,Moderate
+Person_377,35,93.5,Female,7.4,Moderate
+Person_378,39,98.3,Male,10.3,Moderate
+Person_379,27,35.6,Female,8.6,Moderate
+Person_380,61,92.8,Child,8.1,Moderate
+Person_381,53,93.3,Pregnant Woman,8.5,Moderate
+Person_382,53,89.4,Female,4.8,Severe
+Person_383,4,39.9,Pregnant Woman,5.3,Severe
+Person_384,22,98.2,Child,9.4,Moderate
+Person_385,51,63.5,Male,13.1,Mild
+Person_386,70,85.6,Child,11.1,Normal
+Person_387,17,13.6,Female,0.8,Severe
+Person_388,15,52.6,Pregnant Woman,4.5,Severe
+Person_389,5,85.1,Male,11.4,Mild
+Person_390,3,43.1,Male,11.6,Mild
+Person_391,19,83.4,Male,11.1,Mild
+Person_392,15,71.2,Female,3.6,Severe
+Person_393,39,92.8,Pregnant Woman,10.2,Mild
+Person_394,1,76.7,Male,13.5,Mild
+Person_395,48,48.0,Child,10.7,Mild
+Person_396,21,83.7,Pregnant Woman,11.3,Normal
+Person_397,17,86.9,Female,14.0,Normal
+Person_398,49,18.7,Male,10.7,Moderate
+Person_399,60,40.4,Female,10.2,Mild
+Person_400,39,98.9,Female,0.7,Severe
+Person_401,53,79.2,Male,9.0,Moderate
+Person_402,54,49.5,Female,10.4,Mild
+Person_403,78,79.9,Female,4.8,Severe
+Person_404,31,96.8,Male,15.8,Normal
+Person_405,79,81.9,Child,10.4,Mild
+Person_406,11,46.3,Female,14.0,Normal
+Person_407,79,51.7,Male,10.8,Moderate
+Person_408,18,61.3,Child,12.6,Normal
+Person_409,27,13.0,Male,11.5,Mild
+Person_410,76,93.0,Child,10.1,Mild
+Person_411,15,13.4,Child,3.6,Severe
+Person_412,17,17.0,Female,9.2,Moderate
+Person_413,52,30.8,Child,10.5,Mild
+Person_414,77,36.4,Male,9.9,Moderate
+Person_415,50,42.9,Female,0.0,Severe
+Person_416,6,85.9,Female,15.0,Normal
+Person_417,62,21.8,Female,9.1,Moderate
+Person_418,4,24.6,Female,10.4,Mild
+Person_419,34,35.5,Pregnant Woman,7.8,Moderate
+Person_420,19,83.9,Pregnant Woman,10.6,Mild
+Person_421,71,38.4,Female,11.7,Mild
+Person_422,73,96.1,Child,2.0,Severe
+Person_423,10,49.4,Pregnant Woman,11.8,Normal
+Person_424,73,86.5,Child,7.2,Moderate
+Person_425,54,52.6,Pregnant Woman,3.7,Severe
+Person_426,30,92.4,Child,9.1,Moderate
+Person_427,10,10.9,Female,11.0,Mild
+Person_428,78,29.8,Male,9.9,Moderate
+Person_429,2,75.5,Pregnant Woman,8.4,Moderate
+Person_430,40,51.7,Pregnant Woman,12.7,Normal
+Person_431,42,51.0,Male,14.0,Normal
+Person_432,75,65.4,Child,9.5,Moderate
+Person_433,39,36.5,Child,11.8,Normal
+Person_434,56,86.5,Female,12.4,Normal
+Person_435,7,39.7,Pregnant Woman,6.2,Severe
+Person_436,13,21.7,Pregnant Woman,7.5,Moderate
+Person_437,61,55.9,Female,3.6,Severe
+Person_438,20,17.8,Child,13.9,Normal
+Person_439,50,83.0,Child,10.8,Mild
+Person_440,36,57.0,Male,11.5,Mild
+Person_441,77,90.8,Child,7.7,Moderate
+Person_442,35,41.5,Pregnant Woman,7.6,Moderate
+Person_443,9,65.7,Male,16.0,Normal
+Person_444,3,47.4,Female,8.6,Moderate
+Person_445,5,98.2,Pregnant Woman,2.4,Severe
+Person_446,52,68.3,Pregnant Woman,9.4,Moderate
+Person_447,53,19.9,Pregnant Woman,3.0,Severe
+Person_448,72,98.4,Child,13.4,Normal
+Person_449,67,46.8,Female,12.6,Normal
+Person_450,10,39.5,Male,8.3,Moderate
+Person_451,24,39.4,Pregnant Woman,1.5,Severe
+Person_452,79,85.4,Female,8.5,Moderate
+Person_453,23,48.6,Female,8.9,Moderate
+Person_454,72,13.8,Female,1.5,Severe
+Person_455,30,40.7,Male,11.6,Mild
+Person_456,28,80.0,Male,8.7,Moderate
+Person_457,77,35.1,Child,1.0,Severe
+Person_458,2,70.1,Female,14.1,Normal
+Person_459,36,17.4,Pregnant Woman,13.6,Normal
+Person_460,39,88.3,Child,7.6,Moderate
+Person_461,41,72.3,Male,15.6,Normal
+Person_462,23,88.2,Pregnant Woman,11.0,Normal
+Person_463,63,37.9,Pregnant Woman,10.8,Mild
+Person_464,59,95.6,Female,13.6,Normal
+Person_465,58,42.9,Child,2.6,Severe
+Person_466,16,50.7,Female,10.2,Mild
+Person_467,69,17.8,Child,0.1,Severe
+Person_468,80,60.4,Child,12.7,Normal
+Person_469,3,15.2,Child,1.0,Severe
+Person_470,59,44.5,Pregnant Woman,9.5,Moderate
+Person_471,80,30.6,Female,10.4,Mild
+Person_472,7,69.8,Female,5.5,Severe
+Person_473,6,13.6,Female,3.7,Severe
+Person_474,80,48.0,Female,8.3,Moderate
+Person_475,61,28.8,Child,4.9,Severe
+Person_476,1,39.3,Child,2.3,Severe
+Person_477,1,18.0,Pregnant Woman,6.2,Severe
+Person_478,77,32.4,Male,4.3,Severe
+Person_479,47,48.0,Pregnant Woman,7.0,Moderate
+Person_480,26,22.3,Male,11.0,Mild
+Person_481,75,53.3,Child,9.0,Moderate
+Person_482,59,67.7,Child,10.8,Mild
+Person_483,37,72.8,Child,12.6,Normal
+Person_484,35,56.5,Pregnant Woman,10.8,Mild
+Person_485,47,69.5,Pregnant Woman,7.9,Moderate
+Person_486,1,15.5,Male,13.3,Mild
+Person_487,47,39.2,Child,7.4,Moderate
+Person_488,61,89.9,Male,10.2,Moderate
+Person_489,18,39.1,Male,15.1,Normal
+Person_490,74,21.6,Child,5.1,Severe
+Person_491,35,10.2,Female,9.2,Moderate
+Person_492,77,96.1,Male,6.5,Severe
+Person_493,80,46.3,Male,9.2,Moderate
+Person_494,23,17.5,Pregnant Woman,4.5,Severe
+Person_495,21,15.7,Pregnant Woman,10.0,Mild
+Person_496,22,81.3,Male,15.7,Normal
+Person_497,53,87.0,Child,4.3,Severe
+Person_498,71,35.4,Child,11.1,Normal
+Person_499,31,78.3,Pregnant Woman,11.6,Normal
+Person_500,68,62.7,Female,7.7,Moderate
+Person_501,16,15.4,Pregnant Woman,10.4,Mild
+Person_502,79,47.4,Female,12.6,Normal
+Person_503,55,62.1,Male,5.4,Severe
+Person_504,18,73.0,Female,10.5,Mild
+Person_505,62,98.1,Pregnant Woman,9.6,Moderate
+Person_506,60,18.2,Child,5.5,Severe
+Person_507,74,39.8,Child,6.4,Severe
+Person_508,52,25.2,Pregnant Woman,10.7,Mild
+Person_509,61,19.6,Pregnant Woman,10.4,Mild
+Person_510,76,54.7,Pregnant Woman,10.7,Mild
+Person_511,32,90.0,Child,3.6,Severe
+Person_512,51,20.0,Female,8.1,Moderate
+Person_513,50,38.7,Pregnant Woman,10.2,Mild
+Person_514,40,11.9,Pregnant Woman,3.3,Severe
+Person_515,49,21.2,Pregnant Woman,10.5,Mild
+Person_516,48,16.5,Pregnant Woman,7.4,Moderate
+Person_517,63,60.3,Male,5.6,Severe
+Person_518,31,15.4,Male,8.4,Moderate
+Person_519,9,98.5,Female,10.8,Mild
+Person_520,29,85.6,Pregnant Woman,10.7,Mild
+Person_521,22,46.1,Child,8.0,Moderate
+Person_522,58,72.8,Pregnant Woman,9.8,Moderate
+Person_523,26,23.8,Male,5.6,Severe
+Person_524,10,97.2,Female,1.4,Severe
+Person_525,30,76.9,Pregnant Woman,4.0,Severe
+Person_526,67,63.3,Child,8.3,Moderate
+Person_527,20,11.7,Male,9.4,Moderate
+Person_528,54,47.4,Female,13.4,Normal
+Person_529,59,23.0,Pregnant Woman,10.1,Mild
+Person_530,75,79.2,Child,5.4,Severe
+Person_531,44,80.2,Female,3.2,Severe
+Person_532,2,27.5,Male,9.0,Moderate
+Person_533,50,82.2,Female,1.3,Severe
+Person_534,36,38.5,Child,13.7,Normal
+Person_535,45,40.9,Female,9.0,Moderate
+Person_536,39,38.8,Male,14.0,Normal
+Person_537,5,38.3,Female,5.1,Severe
+Person_538,3,35.3,Child,10.0,Mild
+Person_539,76,37.9,Male,1.9,Severe
+Person_540,24,17.8,Pregnant Woman,10.6,Mild
+Person_541,13,15.9,Female,1.1,Severe
+Person_542,74,94.2,Male,8.5,Moderate
+Person_543,29,64.6,Female,9.2,Moderate
+Person_544,41,45.3,Female,11.2,Mild
+Person_545,37,97.7,Pregnant Woman,7.8,Moderate
+Person_546,62,12.2,Female,0.7,Severe
+Person_547,73,39.2,Pregnant Woman,9.0,Moderate
+Person_548,34,69.5,Child,2.9,Severe
+Person_549,55,96.5,Male,16.3,Normal
+Person_550,19,25.9,Male,2.4,Severe
+Person_551,2,98.1,Male,0.3,Severe
+Person_552,65,29.2,Female,5.0,Severe
+Person_553,76,11.8,Female,11.7,Mild
+Person_554,39,11.4,Child,13.9,Normal
+Person_555,16,39.3,Pregnant Woman,12.9,Normal
+Person_556,12,49.1,Pregnant Woman,10.1,Mild
+Person_557,70,27.0,Male,3.2,Severe
+Person_558,16,85.6,Child,9.7,Moderate
+Person_559,16,59.6,Pregnant Woman,7.5,Moderate
+Person_560,55,47.0,Female,13.1,Normal
+Person_561,52,94.3,Pregnant Woman,10.3,Mild
+Person_562,28,98.2,Male,16.5,Normal
+Person_563,74,88.3,Pregnant Woman,10.9,Mild
+Person_564,61,70.6,Child,8.8,Moderate
+Person_565,77,33.2,Child,12.6,Normal
+Person_566,70,94.5,Child,12.5,Normal
+Person_567,61,69.6,Pregnant Woman,13.3,Normal
+Person_568,58,55.6,Female,14.3,Normal
+Person_569,29,84.5,Pregnant Woman,10.9,Mild
+Person_570,57,22.5,Child,10.3,Mild
+Person_571,13,84.6,Child,11.2,Normal
+Person_572,71,18.5,Female,8.8,Moderate
+Person_573,13,18.4,Child,7.1,Moderate
+Person_574,6,22.7,Child,10.3,Mild
+Person_575,36,89.0,Female,11.2,Mild
+Person_576,44,40.7,Male,13.0,Mild
+Person_577,49,73.1,Pregnant Woman,10.7,Mild
+Person_578,42,43.9,Pregnant Woman,10.4,Mild
+Person_579,50,40.9,Male,0.2,Severe
+Person_580,80,17.9,Male,12.2,Mild
+Person_581,71,61.3,Child,0.8,Severe
+Person_582,59,10.2,Female,10.2,Mild
+Person_583,58,69.2,Pregnant Woman,14.0,Normal
+Person_584,40,36.3,Pregnant Woman,10.4,Mild
+Person_585,5,55.8,Pregnant Woman,10.9,Mild
+Person_586,53,40.4,Pregnant Woman,9.1,Moderate
+Person_587,58,79.8,Male,2.3,Severe
+Person_588,32,35.9,Child,13.5,Normal
+Person_589,45,42.7,Pregnant Woman,9.8,Moderate
+Person_590,4,65.5,Female,12.4,Normal
+Person_591,63,60.0,Male,16.9,Normal
+Person_592,5,20.9,Pregnant Woman,12.0,Normal
+Person_593,49,55.3,Female,14.7,Normal
+Person_594,44,98.0,Male,13.5,Mild
+Person_595,70,39.2,Pregnant Woman,10.4,Mild
+Person_596,45,75.4,Child,7.6,Moderate
+Person_597,37,57.4,Female,11.1,Mild
+Person_598,16,30.1,Female,12.3,Normal
+Person_599,10,74.1,Male,4.4,Severe
+Person_600,33,49.5,Pregnant Woman,10.3,Mild
+Person_601,57,74.4,Male,7.2,Severe
+Person_602,49,32.2,Pregnant Woman,2.4,Severe
+Person_603,20,23.7,Male,11.8,Mild
+Person_604,36,97.3,Male,9.8,Moderate
+Person_605,43,43.5,Child,10.4,Mild
+Person_606,52,95.2,Male,3.7,Severe
+Person_607,9,68.4,Child,13.2,Normal
+Person_608,48,46.9,Male,10.0,Moderate
+Person_609,19,57.4,Male,6.3,Severe
+Person_610,2,98.5,Male,12.4,Mild
+Person_611,75,77.3,Male,5.2,Severe
+Person_612,15,55.1,Pregnant Woman,1.4,Severe
+Person_613,50,85.3,Pregnant Woman,5.1,Severe
+Person_614,60,57.2,Male,14.4,Normal
+Person_615,52,69.9,Pregnant Woman,9.5,Moderate
+Person_616,9,93.8,Male,13.5,Mild
+Person_617,45,85.3,Pregnant Woman,10.0,Mild
+Person_618,15,23.6,Pregnant Woman,10.7,Mild
+Person_619,1,15.7,Female,13.3,Normal
+Person_620,32,32.3,Female,11.0,Mild
+Person_621,42,49.1,Pregnant Woman,6.4,Severe
+Person_622,10,21.6,Pregnant Woman,10.5,Mild
+Person_623,29,50.5,Child,13.3,Normal
+Person_624,70,90.0,Female,11.9,Mild
+Person_625,73,63.8,Pregnant Woman,2.6,Severe
+Person_626,39,92.6,Male,9.3,Moderate
+Person_627,9,19.3,Child,10.5,Mild
+Person_628,39,35.2,Child,10.4,Mild
+Person_629,49,63.8,Female,9.3,Moderate
+Person_630,80,94.9,Child,11.8,Normal
+Person_631,63,21.9,Pregnant Woman,13.8,Normal
+Person_632,79,28.8,Pregnant Woman,3.0,Severe
+Person_633,25,52.8,Child,10.1,Mild
+Person_634,2,29.9,Female,12.9,Normal
+Person_635,39,21.7,Male,14.0,Normal
+Person_636,7,43.6,Male,16.7,Normal
+Person_637,28,86.7,Male,15.4,Normal
+Person_638,36,36.7,Pregnant Woman,10.3,Mild
+Person_639,55,20.9,Male,8.6,Moderate
+Person_640,30,45.3,Pregnant Woman,7.3,Moderate
+Person_641,46,93.1,Pregnant Woman,7.8,Moderate
+Person_642,22,51.9,Female,13.5,Normal
+Person_643,71,26.4,Female,14.6,Normal
+Person_644,22,50.6,Female,11.5,Mild
+Person_645,74,61.9,Male,9.3,Moderate
+Person_646,10,79.7,Child,9.8,Moderate
+Person_647,36,22.8,Child,12.4,Normal
+Person_648,39,86.8,Female,14.7,Normal
+Person_649,58,62.0,Child,9.4,Moderate
+Person_650,62,58.8,Pregnant Woman,9.4,Moderate
+Person_651,76,33.0,Male,15.8,Normal
+Person_652,77,93.5,Male,4.1,Severe
+Person_653,64,70.3,Male,16.2,Normal
+Person_654,15,72.3,Male,10.7,Moderate
+Person_655,43,66.8,Child,5.7,Severe
+Person_656,61,21.9,Pregnant Woman,8.5,Moderate
+Person_657,18,92.3,Child,10.8,Mild
+Person_658,59,37.8,Pregnant Woman,7.2,Moderate
+Person_659,9,20.8,Pregnant Woman,8.4,Moderate
+Person_660,21,79.8,Male,6.4,Severe
+Person_661,44,13.5,Pregnant Woman,12.1,Normal
+Person_662,61,26.1,Child,0.4,Severe
+Person_663,4,85.7,Pregnant Woman,3.2,Severe
+Person_664,46,86.9,Male,13.1,Mild
+Person_665,17,61.0,Child,7.3,Moderate
+Person_666,79,31.6,Female,13.4,Normal
+Person_667,27,44.6,Male,8.5,Moderate
+Person_668,46,76.2,Pregnant Woman,2.4,Severe
+Person_669,76,20.9,Child,10.5,Mild
+Person_670,16,28.7,Child,10.8,Mild
+Person_671,35,89.2,Male,10.2,Moderate
+Person_672,72,18.4,Child,8.3,Moderate
+Person_673,6,68.5,Female,6.3,Severe
+Person_674,44,18.0,Male,16.3,Normal
+Person_675,26,52.5,Pregnant Woman,10.3,Mild
+Person_676,77,32.0,Female,11.2,Mild
+Person_677,5,35.1,Male,3.3,Severe
+Person_678,39,54.6,Female,9.7,Moderate
+Person_679,10,64.5,Male,7.1,Severe
+Person_680,69,86.3,Male,12.3,Mild
+Person_681,8,13.1,Child,10.7,Mild
+Person_682,13,40.5,Male,13.5,Mild
+Person_683,42,11.6,Female,10.7,Mild
+Person_684,64,35.4,Child,10.3,Mild
+Person_685,24,76.4,Female,8.2,Moderate
+Person_686,43,18.4,Pregnant Woman,12.5,Normal
+Person_687,63,30.2,Child,11.0,Normal
+Person_688,62,97.1,Child,14.0,Normal
+Person_689,54,16.8,Female,3.8,Severe
+Person_690,20,65.7,Female,10.6,Mild
+Person_691,48,66.4,Male,12.9,Mild
+Person_692,65,68.4,Male,6.0,Severe
+Person_693,21,18.9,Pregnant Woman,9.5,Moderate
+Person_694,13,40.2,Pregnant Woman,10.6,Mild
+Person_695,1,46.3,Child,13.9,Normal
+Person_696,59,82.6,Child,7.9,Moderate
+Person_697,6,62.9,Female,10.6,Mild
+Person_698,23,24.4,Pregnant Woman,11.3,Normal
+Person_699,6,83.0,Pregnant Woman,3.9,Severe
+Person_700,37,43.8,Male,3.3,Severe
+Person_701,24,54.1,Female,11.7,Mild
+Person_702,23,95.8,Pregnant Woman,12.4,Normal
+Person_703,79,36.9,Child,6.9,Severe
+Person_704,80,18.7,Pregnant Woman,8.8,Moderate
+Person_705,65,96.2,Male,9.9,Moderate
+Person_706,18,96.3,Male,3.0,Severe
+Person_707,39,32.5,Child,6.0,Severe
+Person_708,78,55.6,Child,2.7,Severe
+Person_709,2,16.4,Child,9.5,Moderate
+Person_710,57,74.0,Pregnant Woman,10.2,Mild
+Person_711,45,55.4,Male,15.3,Normal
+Person_712,40,69.2,Female,8.9,Moderate
+Person_713,49,60.4,Pregnant Woman,0.2,Severe
+Person_714,11,43.7,Female,13.0,Normal
+Person_715,74,77.1,Female,10.1,Mild
+Person_716,65,67.0,Pregnant Woman,9.8,Moderate
+Person_717,25,37.9,Pregnant Woman,10.5,Mild
+Person_718,2,87.0,Child,12.0,Normal
+Person_719,59,53.5,Male,3.5,Severe
+Person_720,32,80.9,Child,1.7,Severe
+Person_721,34,68.0,Male,16.2,Normal
+Person_722,43,81.1,Female,10.9,Mild
+Person_723,7,87.4,Pregnant Woman,10.4,Mild
+Person_724,11,61.5,Male,17.2,Normal
+Person_725,30,86.2,Child,9.3,Moderate
+Person_726,8,72.1,Child,2.0,Severe
+Person_727,32,32.4,Male,6.3,Severe
+Person_728,22,28.1,Male,15.7,Normal
+Person_729,67,47.6,Child,13.5,Normal
+Person_730,17,85.9,Male,0.1,Severe
+Person_731,21,52.4,Pregnant Woman,10.6,Mild
+Person_732,18,92.7,Female,11.5,Mild
+Person_733,10,70.1,Female,12.6,Normal
+Person_734,34,47.5,Child,10.5,Mild
+Person_735,44,83.8,Male,8.2,Moderate
+Person_736,46,73.9,Child,3.8,Severe
+Person_737,62,65.8,Male,9.6,Moderate
+Person_738,41,78.6,Pregnant Woman,10.2,Mild
+Person_739,75,26.4,Pregnant Woman,11.1,Normal
+Person_740,5,25.9,Male,16.3,Normal
+Person_741,35,81.3,Child,4.1,Severe
+Person_742,22,55.8,Female,12.2,Normal
+Person_743,74,80.8,Female,9.7,Moderate
+Person_744,29,98.3,Male,13.3,Mild
+Person_745,45,10.8,Pregnant Woman,6.9,Severe
+Person_746,31,26.1,Pregnant Woman,10.4,Mild
+Person_747,19,12.2,Male,10.0,Moderate
+Person_748,19,43.0,Child,11.5,Normal
+Person_749,58,98.0,Male,15.3,Normal
+Person_750,54,63.5,Pregnant Woman,7.7,Moderate
+Person_751,46,42.7,Female,0.2,Severe
+Person_752,67,14.8,Female,10.9,Mild
+Person_753,63,32.3,Female,10.2,Mild
+Person_754,45,84.5,Male,12.9,Mild
+Person_755,27,53.0,Child,13.6,Normal
+Person_756,79,72.0,Child,13.0,Normal
+Person_757,29,79.5,Pregnant Woman,5.6,Severe
+Person_758,62,96.5,Child,8.4,Moderate
+Person_759,31,57.9,Female,13.9,Normal
+Person_760,49,74.4,Child,0.7,Severe
+Person_761,21,97.0,Male,4.3,Severe
+Person_762,22,56.8,Male,14.8,Normal
+Person_763,80,32.3,Pregnant Woman,7.7,Moderate
+Person_764,19,77.2,Female,5.9,Severe
+Person_765,29,16.4,Child,10.1,Mild
+Person_766,50,42.3,Pregnant Woman,1.4,Severe
+Person_767,30,85.2,Child,10.1,Mild
+Person_768,77,92.5,Female,8.6,Moderate
+Person_769,53,63.2,Child,10.9,Mild
+Person_770,36,41.1,Male,5.9,Severe
+Person_771,39,89.7,Male,12.5,Mild
+Person_772,6,86.4,Pregnant Woman,9.6,Moderate
+Person_773,16,45.1,Child,10.4,Mild
+Person_774,24,48.1,Pregnant Woman,12.3,Normal
+Person_775,2,88.1,Pregnant Woman,10.0,Mild
+Person_776,25,14.4,Male,11.8,Mild
+Person_777,24,48.0,Male,16.0,Normal
+Person_778,55,19.7,Male,16.5,Normal
+Person_779,78,53.8,Pregnant Woman,2.3,Severe
+Person_780,51,43.2,Male,11.1,Mild
+Person_781,47,48.8,Child,12.5,Normal
+Person_782,61,93.0,Pregnant Woman,10.5,Mild
+Person_783,69,87.9,Child,13.1,Normal
+Person_784,42,62.0,Female,3.6,Severe
+Person_785,22,63.2,Female,1.7,Severe
+Person_786,73,53.3,Child,6.4,Severe
+Person_787,48,83.1,Male,9.3,Moderate
+Person_788,23,46.2,Female,1.2,Severe
+Person_789,23,58.7,Male,10.6,Moderate
+Person_790,26,79.5,Male,7.4,Severe
+Person_791,56,94.6,Pregnant Woman,9.5,Moderate
+Person_792,39,90.5,Male,10.6,Moderate
+Person_793,58,60.7,Child,5.4,Severe
+Person_794,48,34.7,Female,1.1,Severe
+Person_795,12,45.3,Child,10.7,Mild
+Person_796,19,38.6,Child,5.9,Severe
+Person_797,30,91.1,Female,6.4,Severe
+Person_798,75,62.6,Female,13.4,Normal
+Person_799,47,79.2,Male,9.3,Moderate
+Person_800,59,56.7,Pregnant Woman,11.1,Normal
+Person_801,64,81.1,Pregnant Woman,3.6,Severe
+Person_802,47,23.4,Pregnant Woman,5.6,Severe
+Person_803,80,94.9,Female,8.2,Moderate
+Person_804,37,50.2,Male,10.3,Moderate
+Person_805,69,91.3,Child,12.6,Normal
+Person_806,23,43.6,Female,6.2,Severe
+Person_807,51,15.2,Pregnant Woman,7.9,Moderate
+Person_808,36,97.2,Child,3.6,Severe
+Person_809,77,77.2,Child,12.8,Normal
+Person_810,25,84.0,Child,7.7,Moderate
+Person_811,25,51.4,Child,9.1,Moderate
+Person_812,13,89.6,Pregnant Woman,2.9,Severe
+Person_813,34,42.2,Male,7.0,Severe
+Person_814,14,20.8,Pregnant Woman,10.1,Mild
+Person_815,9,66.9,Female,11.4,Mild
+Person_816,18,98.5,Male,2.2,Severe
+Person_817,11,62.4,Child,10.4,Mild
+Person_818,17,61.1,Male,4.6,Severe
+Person_819,51,61.2,Female,14.2,Normal
+Person_820,42,58.3,Child,0.3,Severe
+Person_821,59,78.0,Female,7.3,Moderate
+Person_822,56,39.6,Child,10.6,Mild
+Person_823,31,41.3,Child,9.1,Moderate
+Person_824,1,96.1,Female,7.7,Moderate
+Person_825,57,62.3,Child,10.8,Mild
+Person_826,58,73.1,Male,9.1,Moderate
+Person_827,26,77.7,Female,6.0,Severe
+Person_828,78,32.3,Pregnant Woman,10.1,Mild
+Person_829,4,48.0,Female,11.1,Mild
+Person_830,10,29.5,Female,13.6,Normal
+Person_831,61,37.1,Male,4.9,Severe
+Person_832,3,77.9,Pregnant Woman,7.4,Moderate
+Person_833,21,98.3,Child,13.7,Normal
+Person_834,60,27.4,Female,14.6,Normal
+Person_835,71,90.4,Female,14.4,Normal
+Person_836,76,26.8,Pregnant Woman,7.6,Moderate
+Person_837,51,22.9,Male,17.2,Normal
+Person_838,31,26.9,Male,4.2,Severe
+Person_839,13,34.3,Male,1.0,Severe
+Person_840,42,48.4,Female,8.5,Moderate
+Person_841,72,99.3,Child,3.7,Severe
+Person_842,45,10.8,Male,10.1,Moderate
+Person_843,74,74.2,Pregnant Woman,10.7,Mild
+Person_844,14,58.5,Pregnant Woman,12.8,Normal
+Person_845,46,12.8,Female,13.8,Normal
+Person_846,7,53.0,Female,8.7,Moderate
+Person_847,13,45.3,Pregnant Woman,7.7,Moderate
+Person_848,55,94.4,Child,10.2,Mild
+Person_849,27,11.1,Male,14.8,Normal
+Person_850,56,99.8,Male,8.2,Moderate
+Person_851,18,71.4,Male,2.2,Severe
+Person_852,50,69.5,Pregnant Woman,14.0,Normal
+Person_853,41,33.4,Child,6.8,Severe
+Person_854,53,94.5,Female,2.8,Severe
+Person_855,18,51.6,Female,6.9,Severe
+Person_856,24,40.8,Pregnant Woman,13.2,Normal
+Person_857,34,47.5,Child,12.8,Normal
+Person_858,72,38.7,Female,7.7,Moderate
+Person_859,25,82.0,Female,12.5,Normal
+Person_860,18,97.9,Female,2.7,Severe
+Person_861,30,61.8,Female,3.9,Severe
+Person_862,34,85.2,Pregnant Woman,12.7,Normal
+Person_863,8,80.7,Child,7.9,Moderate
+Person_864,8,19.7,Child,12.6,Normal
+Person_865,58,10.6,Pregnant Woman,10.6,Mild
+Person_866,59,48.0,Female,11.6,Mild
+Person_867,61,61.9,Female,7.5,Moderate
+Person_868,30,57.6,Pregnant Woman,5.1,Severe
+Person_869,42,78.8,Female,14.0,Normal
+Person_870,53,89.7,Male,17.1,Normal
+Person_871,12,68.5,Child,5.2,Severe
+Person_872,54,86.5,Male,10.5,Moderate
+Person_873,35,95.2,Child,11.2,Normal
+Person_874,58,45.6,Female,14.5,Normal
+Person_875,47,10.2,Male,13.6,Mild
+Person_876,64,93.3,Child,2.0,Severe
+Person_877,22,16.4,Child,9.3,Moderate
+Person_878,40,61.7,Child,10.6,Mild
+Person_879,26,70.1,Child,5.1,Severe
+Person_880,49,64.0,Pregnant Woman,8.5,Moderate
+Person_881,46,80.0,Pregnant Woman,11.2,Normal
+Person_882,28,88.2,Pregnant Woman,10.2,Mild
+Person_883,44,26.9,Female,14.9,Normal
+Person_884,1,66.8,Pregnant Woman,0.2,Severe
+Person_885,16,64.3,Female,10.8,Mild
+Person_886,2,93.2,Child,7.0,Moderate
+Person_887,59,75.1,Child,9.0,Moderate
+Person_888,74,52.5,Child,2.9,Severe
+Person_889,40,23.3,Female,9.5,Moderate
+Person_890,7,92.9,Pregnant Woman,10.1,Mild
+Person_891,50,30.8,Female,8.5,Moderate
+Person_892,28,49.8,Pregnant Woman,1.5,Severe
+Person_893,73,71.3,Pregnant Woman,10.7,Mild
+Person_894,45,12.3,Child,2.4,Severe
+Person_895,23,93.4,Child,2.6,Severe
+Person_896,46,64.0,Pregnant Woman,11.3,Normal
+Person_897,53,71.5,Pregnant Woman,4.8,Severe
+Person_898,37,60.4,Child,10.4,Mild
+Person_899,70,34.4,Female,2.9,Severe
+Person_900,64,90.5,Child,10.7,Mild
+Person_901,53,49.8,Male,1.2,Severe
+Person_902,16,77.4,Male,16.6,Normal
+Person_903,65,97.9,Female,13.4,Normal
+Person_904,56,69.2,Female,13.2,Normal
+Person_905,15,58.7,Pregnant Woman,11.5,Normal
+Person_906,55,73.7,Child,2.1,Severe
+Person_907,66,89.3,Female,11.1,Mild
+Person_908,37,80.6,Female,11.0,Mild
+Person_909,57,39.1,Child,10.3,Mild
+Person_910,24,97.2,Pregnant Woman,10.7,Mild
+Person_911,5,86.1,Female,14.3,Normal
+Person_912,6,20.7,Female,7.1,Moderate
+Person_913,63,23.5,Female,12.5,Normal
+Person_914,67,18.2,Female,14.0,Normal
+Person_915,22,28.2,Female,13.5,Normal
+Person_916,41,31.7,Child,7.4,Moderate
+Person_917,66,51.1,Pregnant Woman,11.7,Normal
+Person_918,22,64.6,Child,0.5,Severe
+Person_919,66,81.3,Child,5.2,Severe
+Person_920,45,96.7,Pregnant Woman,6.0,Severe
+Person_921,4,58.5,Child,6.0,Severe
+Person_922,41,95.0,Male,8.4,Moderate
+Person_923,7,90.4,Child,7.0,Moderate
+Person_924,29,58.5,Child,12.7,Normal
+Person_925,53,53.3,Female,12.3,Normal
+Person_926,3,14.4,Child,7.7,Moderate
+Person_927,26,97.2,Pregnant Woman,12.5,Normal
+Person_928,59,34.0,Pregnant Woman,1.9,Severe
+Person_929,77,75.6,Child,8.6,Moderate
+Person_930,22,79.0,Child,9.0,Moderate
+Person_931,38,10.0,Male,10.8,Moderate
+Person_932,23,46.8,Female,9.6,Moderate
+Person_933,14,57.2,Pregnant Woman,11.9,Normal
+Person_934,3,39.8,Male,16.2,Normal
+Person_935,80,85.1,Male,4.0,Severe
+Person_936,57,79.8,Pregnant Woman,10.7,Mild
+Person_937,5,81.7,Pregnant Woman,10.0,Mild
+Person_938,49,34.9,Male,0.7,Severe
+Person_939,2,80.3,Pregnant Woman,7.3,Moderate
+Person_940,75,43.8,Child,6.4,Severe
+Person_941,25,24.0,Female,8.7,Moderate
+Person_942,50,90.1,Male,7.2,Severe
+Person_943,50,73.8,Pregnant Woman,3.6,Severe
+Person_944,34,32.3,Male,10.7,Moderate
+Person_945,31,22.3,Female,10.8,Mild
+Person_946,47,90.7,Female,3.5,Severe
+Person_947,18,79.9,Male,16.5,Normal
+Person_948,63,43.8,Pregnant Woman,7.9,Moderate
+Person_949,42,87.5,Female,10.9,Mild
+Person_950,1,78.4,Child,7.0,Moderate
+Person_951,36,69.0,Female,12.8,Normal
+Person_952,9,10.5,Female,11.8,Mild
+Person_953,44,40.9,Male,1.0,Severe
+Person_954,28,45.7,Female,14.9,Normal
+Person_955,72,38.7,Child,2.1,Severe
+Person_956,2,78.4,Male,8.4,Moderate
+Person_957,55,20.7,Child,12.5,Normal
+Person_958,70,53.0,Female,14.8,Normal
+Person_959,79,98.5,Child,8.6,Moderate
+Person_960,12,60.1,Child,10.2,Mild
+Person_961,4,81.7,Child,10.7,Mild
+Person_962,70,34.8,Child,10.3,Mild
+Person_963,50,56.3,Female,12.1,Normal
+Person_964,26,45.8,Female,8.2,Moderate
+Person_965,14,13.2,Child,12.8,Normal
+Person_966,71,42.8,Male,15.0,Normal
+Person_967,63,38.1,Pregnant Woman,7.1,Moderate
+Person_968,12,68.7,Female,7.5,Moderate
+Person_969,18,23.8,Pregnant Woman,10.8,Mild
+Person_970,36,69.2,Male,11.8,Mild
+Person_971,14,82.0,Male,0.4,Severe
+Person_972,22,82.5,Female,11.8,Mild
+Person_973,9,46.7,Female,9.7,Moderate
+Person_974,31,53.0,Pregnant Woman,11.7,Normal
+Person_975,52,44.6,Female,6.9,Severe
+Person_976,19,56.5,Male,12.2,Mild
+Person_977,51,63.2,Child,12.4,Normal
+Person_978,22,87.8,Female,2.7,Severe
+Person_979,27,54.6,Child,2.6,Severe
+Person_980,30,93.0,Pregnant Woman,9.4,Moderate
+Person_981,78,34.7,Female,9.5,Moderate
+Person_982,31,27.6,Male,10.6,Moderate
+Person_983,66,78.0,Child,9.7,Moderate
+Person_984,49,59.9,Male,3.5,Severe
+Person_985,71,52.4,Male,9.8,Moderate
+Person_986,31,52.5,Child,11.0,Normal
+Person_987,59,32.1,Female,4.5,Severe
+Person_988,53,17.6,Pregnant Woman,11.6,Normal
+Person_989,14,73.0,Child,9.3,Moderate
+Person_990,54,91.5,Male,12.2,Mild
+Person_991,53,62.6,Pregnant Woman,9.7,Moderate
+Person_992,15,53.7,Child,13.5,Normal
+Person_993,34,85.8,Male,10.3,Moderate
+Person_994,5,21.2,Pregnant Woman,10.7,Mild
+Person_995,40,94.7,Pregnant Woman,8.6,Moderate
+Person_996,71,63.1,Pregnant Woman,7.7,Moderate
+Person_997,63,86.6,Female,12.3,Normal
+Person_998,12,96.0,Pregnant Woman,13.1,Normal
+Person_999,51,88.6,Male,0.9,Severe
+Person_1000,56,54.3,Male,10.7,Moderate
