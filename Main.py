@@ -176,6 +176,13 @@ else:
                 st.write(line)
 
             st.success("✅ Patient data saved successfully!")
+            # Save patient data to CSV
+            patient_data = pd.DataFrame([[name, age, weight, category, hemoglobin, anemia_type]],
+                                    columns=["Name", "Age", "Weight", "Category", "Hb Level", "Anemia Condition"])
+            if os.path.exists("anemia_patient_data.csv"):
+                patient_data.to_csv("anemia_patient_data.csv", mode='a', header=False, index=False)
+            else:
+                patient_data.to_csv("anemia_patient_data.csv", index=False)
 
     def patient_data_page():
         st.markdown("<h2>📋 Patient Diagnosis Records</h2>", unsafe_allow_html=True)
