@@ -138,7 +138,7 @@ else:
         st.subheader("Your Smart Health Companion for Anemia Diagnosis")
         try:
             img = Image.open(r"anemia.webp").resize((620, 400))
-            st.image(img, use_column_width=500)
+            st.image(img, use_container_width=500)
         except Exception as e:
             st.error(f"Error loading image: {e}")
         st.markdown("""
