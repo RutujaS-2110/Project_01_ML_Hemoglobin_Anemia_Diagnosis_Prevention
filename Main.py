@@ -118,8 +118,6 @@ def logout():
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 
-st.sidebar.title("Navigation")
-
 if not st.session_state.logged_in:
     page = st.sidebar.radio("Select", ["Login", "Register"])
     if page == "Login":
