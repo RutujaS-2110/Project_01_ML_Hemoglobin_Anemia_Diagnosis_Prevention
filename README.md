@@ -63,11 +63,12 @@ Mild Anemia: 11.0 – 11.4 g/dL,
 Moderate Anemia: 8.0 – 10.9 g/dL,
 Severe Anemia: < 8.0 g/dL.
 
+GRAPHS -
 <img width="600" height="400" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/f8e9d94c-76be-4909-afee-1bfa2af9a62a" />     
-                          Hb Vs Other Physical Parameters Importance Graph 
+                          
 <img width="600" height="400" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0c5842ec-9a38-47b4-b4e8-6f4cbb841a06" />
-                       Hb Vs Other Physical Parameters Importance Graph 
-
+                   
+RESULTS - 
 
 
 
