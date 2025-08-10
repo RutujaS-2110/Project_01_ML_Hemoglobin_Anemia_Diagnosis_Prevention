@@ -93,8 +93,10 @@ RESULTS -
 
 
 
+<p align="center">
+  Patient 01 &amp; Patient 02
+</p>
 
-PATIENT 01 & PATIENT 02
 
 
 <img width="1901" height="1011" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/5d09232e-4efd-4d3b-86aa-784703d09706" />
