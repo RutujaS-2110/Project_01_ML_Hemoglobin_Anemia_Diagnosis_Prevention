@@ -135,7 +135,7 @@ Severe Anemia: < 8.0 g/dL.
 <img width="1891" height="1014" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/1efd9723-8159-47fd-b9a1-fe1804ecec7e" />
 
 <br><br>
-<h3>Bar Distribution</h3>
+<h3>Pie Distribution</h3>
 <br><br>
 <img width="1906" height="1017" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/accf71f3-8519-48ac-82ac-281552835796" />
 
