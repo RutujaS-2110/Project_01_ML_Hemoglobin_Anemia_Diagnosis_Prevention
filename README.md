@@ -22,7 +22,10 @@ RandomForest classifiers are often preferred for health monitoring for several k
 RandomForest generally requires less parameter tuning and is user-friendly, making it a practical choice for various health monitoring applications—from disease prediction to patient risk assessment.
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
-GRAPH
+<br><br>
+<h2 align="center"><b>GRAPH</b></h2>
+<br><br>
+
 
 <img width="800" height="439" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/40fd6b0c-e30f-47ae-9c15-3fbf73dbd13c" />
 
