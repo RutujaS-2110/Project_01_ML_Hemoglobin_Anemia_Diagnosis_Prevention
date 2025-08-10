@@ -85,7 +85,34 @@ Severe Anemia: < 8.0 g/dL.
                 
 RESULTS - 
 
-<img width="1920" height="1080" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/f03f79be-eb0a-4d3b-8f24-61baefdd78ab" />
+<img width="1890" height="1011" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/3c77c0eb-30de-4126-a517-4446a70913cf" />
+
+
+<img width="1902" height="1014" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/1f87741d-3137-4420-bf10-ddffbb6cdf35" />
+
+
+PATIENT 01 
+
+
+<img width="1901" height="1011" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/5d09232e-4efd-4d3b-86aa-784703d09706" />
+
+
+<img width="1900" height="1017" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/f3c84499-d646-4c7a-a7b1-e91fa4efb7d8" />
+
+
+PATIENT 02 
+
+
+<img width="1896" height="1017" alt="Screenshot (339)" src="https://github.com/user-attachments/assets/d0902d09-e37c-4d10-8417-8bec56a4ec89" />
+
+
+<img width="1899" height="1017" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/d6ee4804-bbac-4eb9-8227-4a0ffe0911a9" />
+
+
+<img width="1891" height="1014" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/1efd9723-8159-47fd-b9a1-fe1804ecec7e" />
+
+
+<img width="1906" height="1017" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/accf71f3-8519-48ac-82ac-281552835796" />
 
 
 
