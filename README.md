@@ -59,7 +59,8 @@ To improve authenticity, I refered Hb levels from WHO site:
 WHO Hemoglobin (Hb) ranges for <b>Normal, Mild, Moderate, and Severe Anemia</b>
 :
 
-<b>Normal Hb Ranges (WHO Guidelines)-</b> Men: 13.0 – 17.0 g/dL,
+<b>Normal Hb Ranges (WHO Guidelines)-</b> 
+Men: 13.0 – 17.0 g/dL,
 Women (Non-Pregnant): 12.0 – 15.0 g/dL,
 Children (6 months – 5 years): 11.0 – 14.0 g/dL,
 Children (5–12 years): 11.5 – 15.0 g/dL,
@@ -93,10 +94,10 @@ Mild Anemia: 11.0 – 11.4 g/dL,
 Moderate Anemia: 8.0 – 10.9 g/dL,
 Severe Anemia: < 8.0 g/dL.
 
-
+              
 <br><br>
-<h2 align="center">User Authentication & Home Page</h2>
-<br><br>                
+<h3><b>User Authentication & Home Page</b></h3>
+<br><br>
 
 <img width="1800" height="1011" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/3c77c0eb-30de-4126-a517-4446a70913cf" />
 
