@@ -65,7 +65,8 @@ Severe Anemia: < 8.0 g/dL.
 
 GRAPH
 
-<img width="900" height="565" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/ec34339c-1c10-40bf-b4d4-e20f61d616c8" />
+<img width="700" height="439" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/40fd6b0c-e30f-47ae-9c15-3fbf73dbd13c" />
+
 
 <img width="750" height="319" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/3404caf9-0e1c-44da-9f71-e495927703ef" />
 
