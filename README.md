@@ -64,9 +64,12 @@ Moderate Anemia: 8.0 – 10.9 g/dL,
 Severe Anemia: < 8.0 g/dL.
 
 GRAPHS -
-<img width="600" height="400" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/f8e9d94c-76be-4909-afee-1bfa2af9a62a" />     
-                          
-<img width="600" height="400" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0c5842ec-9a38-47b4-b4e8-6f4cbb841a06" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/Screenshot223.png" alt="Feature Importance" width="400"/>
+  <img src="https://raw.githubusercontent.com/username/repo/main/Screenshot225.png" alt="AUC-ROC Curve" width="400"/>
+</p>
+
                    
 RESULTS - 
 
