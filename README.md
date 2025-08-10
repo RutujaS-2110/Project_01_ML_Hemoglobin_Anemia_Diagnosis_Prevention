@@ -21,7 +21,7 @@ RandomForest classifiers are often preferred for health monitoring for several k
 RandomForest generally requires less parameter tuning and is user-friendly, making it a practical choice for various health monitoring applications—from disease prediction to patient risk assessment.
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
-Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever (THE CONTENTS OF THE WEB APP ARE INTENDED FOR JOURNAL PUBLICATION, SO I NEED TO KEEP SOME INFORMATION CONFIDENTIAL UNTIL IT GETS PUBLISHED. I HAVEN’T PROVIDED MY WEBSITE URL HERE. THE CODES ARE INCLUDED AS THEY ARE NECESSARY FOR DEPLOYING THE APP THROUGH STREAMLIT.)
+Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever.
 
 To improve authenticity, I refered Hb levels from WHO site:
 WHO Hemoglobin (Hb) ranges for Normal, Mild, Moderate, and Severe Anemia:
@@ -54,8 +54,9 @@ Mild Anemia: 11.0 – 11.4 g/dL
 Moderate Anemia: 8.0 – 10.9 g/dL
 Severe Anemia: < 8.0 g/dL
 
+<img width="1358" height="853" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/f8e9d94c-76be-4909-afee-1bfa2af9a62a" />     <img width="1055" height="882" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0c5842ec-9a38-47b4-b4e8-6f4cbb841a06" />
 
-<img width="817" height="331" alt="image" src="https://github.com/user-attachments/assets/b65e7e1b-30e5-4bfb-a7b6-d27f53f2ec04" />
+
 
 
 
