@@ -93,9 +93,11 @@ RESULTS -
 
 
 
+<br><br>
 <p align="center">
-  Patient 01 &amp; Patient 02
+  <b>Patient 01 &amp; Patient 02</b>
 </p>
+<br><br>
 
 
 
