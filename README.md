@@ -23,7 +23,7 @@ RandomForest generally requires less parameter tuning and is user-friendly, maki
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
 <br><br>
-<h2 align="center"><b>Model Performance Visualization</b></h2>
+<h2 align="center"><b>Model Accuracy & Graphs</b></h2>
 <br><br>
 
 
@@ -39,26 +39,36 @@ While no single model is universally the best, RandomForest’s balance of accur
 
 
 
-STEPS OF DEPLOYMENT - 
+<br><br>
+<h2 align="center"><b>Model Deployment</b></h2>
+<br><br>
+
 
 Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever.
 
 <img width="800" height="319" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
 
+<img width="800" height="319" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/d92cf672-5379-4400-8da6-9b79b7e41ffe" />
+
+<br><br>
+<h2 align="center"><b>Web App Preview</b></h2>
+<br><br>
+
 To improve authenticity, I refered Hb levels from WHO site:
 
-WHO Hemoglobin (Hb) ranges for Normal, Mild, Moderate, and Severe Anemia:
+WHO Hemoglobin (Hb) ranges for <b>Normal, Mild, Moderate, and Severe Anemia</b>
+:
 
-Normal Hb Ranges (WHO Guidelines)- 
+<b>Normal Hb Ranges (WHO Guidelines)-</b> 
 
-Men: 13.0 – 17.0 g/dL,
-Women (Non-Pregnant): 12.0 – 15.0 g/dL,
-Children (6 months – 5 years): 11.0 – 14.0 g/dL,
+<b>Men</b>: 13.0 – 17.0 g/dL,
+<b>Women (Non-Pregnant)</b>: 12.0 – 15.0 g/dL,
+<b>Children (6 months – 5 years)</b>: 11.0 – 14.0 g/dL,
 Children (5–12 years): 11.5 – 15.0 g/dL,
 Adolescents (12–15 years): 12.0 – 16.0 g/dL,
 Pregnant Women: 11.0 – 14.0 g/dL.
 
-Anemia Classification (WHO Criteria) 
+<b>Anemia Classification (WHO Criteria)</b> 
 
 For Men - 
 Mild Anemia: 11.0 – 12.9 g/dL,
