@@ -108,7 +108,7 @@ Severe Anemia: < 8.0 g/dL.
 
 
 <br><br>
-<h2 align="center">Patient 01 &amp; Patient 02</h2>
+<h2 align="center">Diagnosis Page - Patient 01 & Patient 02</h2>
 <br><br>
 
 
