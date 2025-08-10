@@ -33,9 +33,9 @@ GRAPH
 
 
 
-Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever.
 
 STEPS OF DEPLOYMENT - 
+Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever.
 
 <img width="800" height="319" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
 
