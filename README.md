@@ -24,6 +24,7 @@ While no single model is universally the best, RandomForest’s balance of accur
 Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever.
 
 To improve authenticity, I refered Hb levels from WHO site:
+
 WHO Hemoglobin (Hb) ranges for Normal, Mild, Moderate, and Severe Anemia:
 Normal Hb Ranges (WHO Guidelines)
 Men: 13.0 – 17.0 g/dL
@@ -32,23 +33,28 @@ Children (6 months – 5 years): 11.0 – 14.0 g/dL
 Children (5–12 years): 11.5 – 15.0 g/dL
 Adolescents (12–15 years): 12.0 – 16.0 g/dL
 Pregnant Women: 11.0 – 14.0 g/dL
+
 Anemia Classification (WHO Criteria)
 For Men
 Mild Anemia: 11.0 – 12.9 g/dL
 Moderate Anemia: 8.0 – 10.9 g/dL
 Severe Anemia: < 8.0 g/dL
+
 For Women (Non-Pregnant)
 Mild Anemia: 11.0 – 11.9 g/dL
 Moderate Anemia: 8.0 – 10.9 g/dL
 Severe Anemia: < 8.0 g/dL
+
 For Pregnant Women
 Mild Anemia: 10.0 – 10.9 g/dL
 Moderate Anemia: 7.0 – 9.9 g/dL
 Severe Anemia: < 7.0 g/dL
+
 For Children (6 months – 5 years)
 Mild Anemia: 10.0 – 10.9 g/dL
 Moderate Anemia: 7.0 – 9.9 g/dL
 Severe Anemia: < 7.0 g/dL
+
 For Children (5–12 years)
 Mild Anemia: 11.0 – 11.4 g/dL
 Moderate Anemia: 8.0 – 10.9 g/dL
