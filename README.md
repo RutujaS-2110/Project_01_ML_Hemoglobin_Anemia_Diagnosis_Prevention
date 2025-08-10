@@ -23,7 +23,7 @@ RandomForest generally requires less parameter tuning and is user-friendly, maki
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
 <br><br>
-<h2 align="center"><b>GRAPH</b></h2>
+<h2 align="center"><b>Model Performance Visualization</b></h2>
 <br><br>
 
 
