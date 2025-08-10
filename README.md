@@ -67,6 +67,7 @@ GRAPH
 
 <img width="900" height="565" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/ec34339c-1c10-40bf-b4d4-e20f61d616c8" />
 
+<img width="900" height="383" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/f174aee9-5108-44aa-baf2-878f7cf81459" />
 
 
                    
