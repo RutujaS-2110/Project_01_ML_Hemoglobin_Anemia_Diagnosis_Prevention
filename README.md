@@ -1,5 +1,6 @@
-
-Anemia Detection & Prevention using Machine Learing and Web Development
+<br><br>
+<h1 align="center"><b>Anemia Detection &amp; Prevention using Machine Learning and Web Development</b></h1>
+<br><br>
 
 According to estimates by the World Health Organization, around 25% of the global population suffers from anemia—that is, roughly one in four people. 
 The prevalence, however, is not uniform across all groups and regions. For instance:
