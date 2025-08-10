@@ -108,7 +108,7 @@ Severe Anemia: < 8.0 g/dL.
 
 
 <br><br>
-<h2 align="center">Diagnosis Page - Patient 01 & Patient 02</h2>
+<h3>Diagnosis Page - Patient 01 & Patient 02</h3>
 <br><br>
 
 
@@ -128,10 +128,15 @@ Severe Anemia: < 8.0 g/dL.
 
 <img width="1899" height="1017" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/d6ee4804-bbac-4eb9-8227-4a0ffe0911a9" />
 
+<br><br>
+<h3>Patient Record</h3>
+<br><br>
 
 <img width="1891" height="1014" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/1efd9723-8159-47fd-b9a1-fe1804ecec7e" />
 
-
+<br><br>
+<h3>Bar Distribution</h3>
+<br><br>
 <img width="1906" height="1017" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/accf71f3-8519-48ac-82ac-281552835796" />
 
 
