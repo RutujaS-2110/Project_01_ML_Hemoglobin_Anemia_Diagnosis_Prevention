@@ -76,7 +76,14 @@ GRAPH
 
 
                    
+
+DEPLOY PROCESS - 
+
+<img width="800" height="320" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/d68d715d-a48f-4960-973d-91328e527191" />
+
+
 RESULTS - 
+
 
 
 
