@@ -55,6 +55,9 @@ Moderate Anemia: 8.0 – 10.9 g/dL
 Severe Anemia: < 8.0 g/dL
 
 
+<img width="817" height="331" alt="image" src="https://github.com/user-attachments/assets/b65e7e1b-30e5-4bfb-a7b6-d27f53f2ec04" />
+
+
 
 
 
