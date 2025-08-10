@@ -91,7 +91,7 @@ RESULTS -
 <img width="1800" height="1014" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/1f87741d-3137-4420-bf10-ddffbb6cdf35" />
 
 
-PATIENT 01 
+PATIENT 01 & PATIENT 02
 
 
 <img width="1901" height="1011" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/5d09232e-4efd-4d3b-86aa-784703d09706" />
@@ -100,7 +100,7 @@ PATIENT 01
 <img width="1900" height="1017" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/f3c84499-d646-4c7a-a7b1-e91fa4efb7d8" />
 
 
-PATIENT 02 
+
 
 
 <img width="1896" height="1017" alt="Screenshot (339)" src="https://github.com/user-attachments/assets/d0902d09-e37c-4d10-8417-8bec56a4ec89" />
