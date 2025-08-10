@@ -21,7 +21,23 @@ RandomForest classifiers are often preferred for health monitoring for several k
 RandomForest generally requires less parameter tuning and is user-friendly, making it a practical choice for various health monitoring applications—from disease prediction to patient risk assessment.
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
+GRAPH
+
+<img width="800" height="439" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/40fd6b0c-e30f-47ae-9c15-3fbf73dbd13c" />
+
+
+<img width="800" height="319" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/3404caf9-0e1c-44da-9f71-e495927703ef" />
+
+
+<img width="800" height="439" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/bde7deed-5d14-4fae-a74f-a4acad9b025e" />
+
+
+
 Further I created a Web Application by using Streamlit App which provides me with URL, Streamlit makes my work easier than ever.
+
+STEPS OF DEPLOYMENT - 
+
+<img width="800" height="319" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
 
 To improve authenticity, I refered Hb levels from WHO site:
 
@@ -63,26 +79,8 @@ Mild Anemia: 11.0 – 11.4 g/dL,
 Moderate Anemia: 8.0 – 10.9 g/dL,
 Severe Anemia: < 8.0 g/dL.
 
-GRAPH
 
-<img width="800" height="439" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/40fd6b0c-e30f-47ae-9c15-3fbf73dbd13c" />
-
-
-<img width="800" height="319" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/3404caf9-0e1c-44da-9f71-e495927703ef" />
-
-
-<img width="800" height="439" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/bde7deed-5d14-4fae-a74f-a4acad9b025e" />
-
-
-
-                   
-
-DEPLOY PROCESS - 
-
-<img width="800" height="319" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
-
-
-
+                
 RESULTS - 
 
 
