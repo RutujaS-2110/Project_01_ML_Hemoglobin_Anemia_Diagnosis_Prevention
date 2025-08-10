@@ -85,10 +85,10 @@ Severe Anemia: < 8.0 g/dL.
                 
 RESULTS - 
 
-<img width="1890" height="1011" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/3c77c0eb-30de-4126-a517-4446a70913cf" />
+<img width="1800" height="1011" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/3c77c0eb-30de-4126-a517-4446a70913cf" />
 
 
-<img width="1902" height="1014" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/1f87741d-3137-4420-bf10-ddffbb6cdf35" />
+<img width="1800" height="1014" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/1f87741d-3137-4420-bf10-ddffbb6cdf35" />
 
 
 PATIENT 01 
