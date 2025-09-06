@@ -138,8 +138,12 @@ Severe Anemia: < 8.0 g/dL.
 <img width="1906" height="1017" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/accf71f3-8519-48ac-82ac-281552835796" />
 
 
+**WebApp URL** - https://detectanemia.streamlit.app/
+**Login Credentials as an Admin** - Username - **megha**
+                                    Password - **megha2110**
 
 
+*Author* & *Creator* - **Rutuja** (Megha/Rutu)
 
 
 
